@@ -1,0 +1,6 @@
+{
+  "name": "أَرْز للأخشاب - متجر التحف والمنتجات الخشبية",
+  "description": "متجر متكامل لعرض المنتجات الخشبية اليدوية، البراويز، ساعات الحائط، التحف، والطرابيزات والكراسي الصغيرة مع أسعار وتفاصيل دقيقة وإمكانية الربط مع Supabase وGitHub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
